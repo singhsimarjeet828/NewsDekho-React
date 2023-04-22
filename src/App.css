@@ -1,0 +1,15 @@
+
+
+/* .card{
+    width:18rem;
+} */
+
+.nav-link{
+    color:red;
+    font-weight: 600;
+    transition: transform .5s;
+}
+.nav-link:hover{
+    color: blue;
+    transform: scale(1.2)
+}
